@@ -12,5 +12,8 @@ Minimal API para gestionar tareas (to do), usando .NET 8.
 
 ## Cómo ejecutar
 en terminal:
+clonar el repositorio...
+en VS Code correr el program.cs en /MyWebApp/
+luego:
 dotnet restore
 dotnet run
