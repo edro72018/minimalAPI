@@ -1,4 +1,4 @@
-# MyWebApp - API Todo minimal .NET 8
+# MyWebApp - minimalAPI en .NET 8
 
 ## Descripción
 Minimal API para gestionar tareas (to do), usando .NET 8.
