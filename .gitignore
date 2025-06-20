@@ -1,0 +1,26 @@
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio files
+.vs/
+
+# Launch settings
+Properties/launchSettings.json
+
+# Rider IDE files (en caso que uses JetBrains Rider)
+.idea/
+
+# Logs
+*.log
+
+# Publish output folder (si usas publish)
+publish/
+
+# Otros archivos temporales
+*.cache
+*.pdb
